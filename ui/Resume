@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+	<div id="header"> 
+	<p id= "name"> Enter you Name here <p>
+	<a href="mailto:you@yourmaildomain.com"> <p id="email">Email me @ my email id</p> </a>
+	</div>
+	<div class="left"> </div>
+	<div class="right"> 
+	
+	<h3>Objective </h3>
+	    <p>asdfshfjdsfksdfn</p>
+	<h3>Summary </h3>
+	    <p>asdfshfjdsfksdfnds,fmbdfksdkijkndrkj ,mb sbjgfdbgjhfgfdvjfgk</p>
+	<h3>Experience </h3>
+	    <ul>
+	    <li> ABCD Ltd</li>
+    	<p>worked for 5 years as Vice President</p>
+	    <li> EFGH Ltd </li>
+	    <p>Worked for 4 years as project manager</p>
+	    <li> XYZ Ltd </li>
+	    <p>worked for 2 years as engineer</p>
+	<h3>Education</h3>
+	<ul>
+	    <li> ABCD </li>
+    	<p>B tech -70% marks</p>
+	    <li> EFGH </li>
+	    <p>Pre degree -80% marks</p>
+	    <li> XYZ  </li>
+	    <p>10th -90% marks</p>
+	<h3>Personal </h3>
+	<p>asdfshfjdsfksdfn snmdfsecktr,thdvh gb  bghdvgdgk gkfg fdfn gfjfs, gdsfvghfghdgbdg dfgdfgdfgfdkjfg hgf,h</p>
+	
+	</div>
+	<div id="footer"> <p> Insert your mailing aaddress with Phone number here</p></div>
+	
+	</body>
+</html>
