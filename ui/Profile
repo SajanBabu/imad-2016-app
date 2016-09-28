@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sajan Babu</title>
+	</head>
+	<body>
+	    <img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg"/>
+	<p style= font-size:24px> <em>I am a 45 years old trained Ninja Male from a small town called Kodakara </em></p>
+	<ul style= font-size:24px;color:Red>>
+	    <li> <strong> Interests </strong>
+	        <ol style= font-size:20px;color:green;font-family:Arial>>
+    	    <li>Reading</li>
+    	    <li>Travelling</li>
+    	    <li>Movies</li>
+    	    </ol>
+	    </li>
+	    <li><strong>Sports</strong>
+    	    <ol style= font-size:20px;color:green;font-family:Tahoma>
+    	    <li>Athletics</li>
+    	    <li>Football</li>
+    	    <li>Badminton</li>
+    	    </ol>
+	    </li>	    
+	    <li><strong>Education</strong>
+    	    <ol style= font-size:20px;color:green;font-family:Times>
+    	    <li>Kalari</li>
+    	    <li>Ninja</li>
+    	    <li>Shaolin Kunfu</li>
+    	    </ol>
+	    </li>
+	    <li><strong>Places to Visit</strong>
+    	    <ul style= font-size:20px;color:green;font-family:Velvette> <em>
+    	    <li>Ankor Wat</li>
+    	    <li>Machu Pichu</li>
+    	    <li>Egypt</li></em>
+    	    </ul>
+	    </li>
+	</ul>
+	</body>
+</html>
